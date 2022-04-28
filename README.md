@@ -33,7 +33,7 @@ I'm Allex Magno Andrade 🇧🇷
 
 
 ### Contact Me
-<a href="mailto:ct.allex@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:contato@magno.eng.br"><img alt="Gmail" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--
 **MagnoA/MagnoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
